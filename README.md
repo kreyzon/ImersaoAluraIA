@@ -1,4 +1,5 @@
 # 🎉 Organizador de Festas com Agentes de IA 🎉
+Você precisa de uma festa e não sabe como começar? O assistente de IA da Kreyzon Events está aqui para ajuda-los!
 
 ## Introdução 👋
 
